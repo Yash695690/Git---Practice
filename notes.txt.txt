@@ -1,3 +1,4 @@
 I am learning Git.
 This is my first Git practice.
 I have learned how git add and git commit work.
+I am now learning how Git and GitHub work together.
